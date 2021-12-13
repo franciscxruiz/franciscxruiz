@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @franciscxruiz
-- 👀 I’m interested in art and productivity
 - 🌱 I’m currently learning JS and React JS
 - 💞️ I’m looking to collaborate on creative teams
 - 📫 How to reach me franciscxruiz@gmail.com
